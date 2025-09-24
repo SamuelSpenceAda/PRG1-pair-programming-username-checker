@@ -1,0 +1,14 @@
+24-09-2025 08:56:22 - Username: 'zara' --> 'zara' - Valid
+24-09-2025 08:56:22 - Username: ' bob ' --> 'bob' - Valid
+24-09-2025 08:56:22 - Username: '  charlie  ' --> 'charlie' - Valid
+24-09-2025 08:56:22 - Username: 'admin' --> 'admin' - Valid
+24-09-2025 08:56:22 - Username: ' admin ' --> 'admin' - Valid
+24-09-2025 08:56:22 - Username: 'test' --> 'test' - Valid
+24-09-2025 08:56:22 - Username: ' user ' --> 'user' - Valid
+24-09-2025 08:56:22 - Username: 'sarah123' --> 'sarah123' - Valid
+24-09-2025 08:56:22 - Username: '  mike  ' --> 'mike' - Valid
+24-09-2025 08:56:22 - Username: 'akil' --> 'akil' - Valid
+24-09-2025 08:56:22 - Username: '   ' --> '' - Invalid
+24-09-2025 08:56:22 - Username: ' hi ' --> 'hi' - Valid
+24-09-2025 08:56:22 - Username: 'valid_user' --> 'valid_user' - Valid
+24-09-2025 08:56:22 - Username: '  another_valid_user  ' --> 'another_valid_user' - Valid
