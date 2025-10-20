@@ -8,11 +8,15 @@ def get_current_datetime_formatted():
     return now.strftime("%d-%m-%Y %H:%M:%S")
 
 def is_valid_username(username):
+    invalid_usernames = ["admin", "test", "user"]
     # Remove whitespace from start and end
     clean_username = username.strip()
+
+    if clean_username in invalid_usernames:
+        return False
     
     # For now, any non-empty username (after stripping) is valid
-    return len(clean_username) > 0
+    return len(clean_username) >= 3
 
 def check_username(username):
     is_valid = is_valid_username(username)

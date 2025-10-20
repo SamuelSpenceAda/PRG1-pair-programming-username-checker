@@ -3,12 +3,12 @@
 ## **Line-Specific Questions:**
 
 **L4 (INPUT_FILE = "./test_usernames.txt"):**
-- What type of data is stored in INPUT_FILE?
-- Why is this defined as a constant at the top?
+- What type of data is stored in INPUT_FILE?            String 
+- Why is this defined as a constant at the top?         Because the file path needs to stay the same
 
 **L12 (clean_username = username.strip()):**
-- What does `.strip()` do to a string?
-- What happens if we remove this line?
+- What does `.strip()` do to a string?                  Removes white space from either side of the string
+- What happens if we remove this line?                  
 - Try changing `username.strip()` to just `username` - what difference does it make?
 
 **L15 (return len(clean_username) > 0):**

@@ -1,14 +1,70 @@
-24-09-2025 08:56:22 - Username: 'zara' --> 'zara' - Valid
-24-09-2025 08:56:22 - Username: ' bob ' --> 'bob' - Valid
-24-09-2025 08:56:22 - Username: '  charlie  ' --> 'charlie' - Valid
-24-09-2025 08:56:22 - Username: 'admin' --> 'admin' - Valid
-24-09-2025 08:56:22 - Username: ' admin ' --> 'admin' - Valid
-24-09-2025 08:56:22 - Username: 'test' --> 'test' - Valid
-24-09-2025 08:56:22 - Username: ' user ' --> 'user' - Valid
-24-09-2025 08:56:22 - Username: 'sarah123' --> 'sarah123' - Valid
-24-09-2025 08:56:22 - Username: '  mike  ' --> 'mike' - Valid
-24-09-2025 08:56:22 - Username: 'akil' --> 'akil' - Valid
-24-09-2025 08:56:22 - Username: '   ' --> '' - Invalid
-24-09-2025 08:56:22 - Username: ' hi ' --> 'hi' - Valid
-24-09-2025 08:56:22 - Username: 'valid_user' --> 'valid_user' - Valid
-24-09-2025 08:56:22 - Username: '  another_valid_user  ' --> 'another_valid_user' - Valid
+20-10-2025 15:07:29 - Username: 'zara' --> 'zara' - Valid
+20-10-2025 15:07:29 - Username: ' bob ' --> 'bob' - Valid
+20-10-2025 15:07:29 - Username: '  charlie  ' --> 'charlie' - Valid
+20-10-2025 15:07:29 - Username: 'admin' --> 'admin' - Valid
+20-10-2025 15:07:29 - Username: ' admin ' --> 'admin' - Valid
+20-10-2025 15:07:29 - Username: 'test' --> 'test' - Valid
+20-10-2025 15:07:29 - Username: ' user ' --> 'user' - Valid
+20-10-2025 15:07:29 - Username: 'sarah123' --> 'sarah123' - Valid
+20-10-2025 15:07:29 - Username: '  mike  ' --> 'mike' - Valid
+20-10-2025 15:07:29 - Username: 'akil' --> 'akil' - Valid
+20-10-2025 15:07:29 - Username: '   ' --> '' - Invalid
+20-10-2025 15:07:29 - Username: ' hi ' --> 'hi' - Valid
+20-10-2025 15:07:29 - Username: 'valid_user' --> 'valid_user' - Valid
+20-10-2025 15:07:29 - Username: '  another_valid_user  ' --> 'another_valid_user' - Valid
+20-10-2025 15:07:59 - Username: 'zara' --> 'zara' - Valid
+20-10-2025 15:07:59 - Username: ' bob ' --> 'bob' - Valid
+20-10-2025 15:07:59 - Username: '  charlie  ' --> 'charlie' - Valid
+20-10-2025 15:07:59 - Username: 'admin' --> 'admin' - Valid
+20-10-2025 15:07:59 - Username: ' admin ' --> 'admin' - Valid
+20-10-2025 15:07:59 - Username: 'test' --> 'test' - Valid
+20-10-2025 15:07:59 - Username: ' user ' --> 'user' - Valid
+20-10-2025 15:07:59 - Username: 'sarah123' --> 'sarah123' - Valid
+20-10-2025 15:07:59 - Username: '  mike  ' --> 'mike' - Valid
+20-10-2025 15:07:59 - Username: 'akil' --> 'akil' - Valid
+20-10-2025 15:07:59 - Username: '   ' --> '' - Valid
+20-10-2025 15:07:59 - Username: ' hi ' --> 'hi' - Valid
+20-10-2025 15:07:59 - Username: 'valid_user' --> 'valid_user' - Valid
+20-10-2025 15:07:59 - Username: '  another_valid_user  ' --> 'another_valid_user' - Valid
+20-10-2025 15:13:48 - Username: 'zara' --> 'zara' - Valid
+20-10-2025 15:13:48 - Username: ' bob ' --> 'bob' - Invalid
+20-10-2025 15:13:48 - Username: '  charlie  ' --> 'charlie' - Valid
+20-10-2025 15:13:48 - Username: 'admin' --> 'admin' - Valid
+20-10-2025 15:13:48 - Username: ' admin ' --> 'admin' - Valid
+20-10-2025 15:13:48 - Username: 'test' --> 'test' - Valid
+20-10-2025 15:13:48 - Username: ' user ' --> 'user' - Valid
+20-10-2025 15:13:48 - Username: 'sarah123' --> 'sarah123' - Valid
+20-10-2025 15:13:48 - Username: '  mike  ' --> 'mike' - Valid
+20-10-2025 15:13:48 - Username: 'akil' --> 'akil' - Valid
+20-10-2025 15:13:48 - Username: '   ' --> '' - Invalid
+20-10-2025 15:13:48 - Username: ' hi ' --> 'hi' - Invalid
+20-10-2025 15:13:48 - Username: 'valid_user' --> 'valid_user' - Valid
+20-10-2025 15:13:48 - Username: '  another_valid_user  ' --> 'another_valid_user' - Valid
+20-10-2025 15:14:17 - Username: 'zara' --> 'zara' - Valid
+20-10-2025 15:14:17 - Username: ' bob ' --> 'bob' - Valid
+20-10-2025 15:14:17 - Username: '  charlie  ' --> 'charlie' - Valid
+20-10-2025 15:14:17 - Username: 'admin' --> 'admin' - Valid
+20-10-2025 15:14:17 - Username: ' admin ' --> 'admin' - Valid
+20-10-2025 15:14:17 - Username: 'test' --> 'test' - Valid
+20-10-2025 15:14:17 - Username: ' user ' --> 'user' - Valid
+20-10-2025 15:14:17 - Username: 'sarah123' --> 'sarah123' - Valid
+20-10-2025 15:14:17 - Username: '  mike  ' --> 'mike' - Valid
+20-10-2025 15:14:17 - Username: 'akil' --> 'akil' - Valid
+20-10-2025 15:14:17 - Username: '   ' --> '' - Invalid
+20-10-2025 15:14:17 - Username: ' hi ' --> 'hi' - Invalid
+20-10-2025 15:14:17 - Username: 'valid_user' --> 'valid_user' - Valid
+20-10-2025 15:14:17 - Username: '  another_valid_user  ' --> 'another_valid_user' - Valid
+20-10-2025 15:17:05 - Username: 'zara' --> 'zara' - Valid
+20-10-2025 15:17:05 - Username: ' bob ' --> 'bob' - Valid
+20-10-2025 15:17:05 - Username: '  charlie  ' --> 'charlie' - Valid
+20-10-2025 15:17:05 - Username: 'admin' --> 'admin' - Invalid
+20-10-2025 15:17:05 - Username: ' admin ' --> 'admin' - Invalid
+20-10-2025 15:17:05 - Username: 'test' --> 'test' - Invalid
+20-10-2025 15:17:05 - Username: ' user ' --> 'user' - Invalid
+20-10-2025 15:17:05 - Username: 'sarah123' --> 'sarah123' - Valid
+20-10-2025 15:17:05 - Username: '  mike  ' --> 'mike' - Valid
+20-10-2025 15:17:05 - Username: 'akil' --> 'akil' - Valid
+20-10-2025 15:17:05 - Username: '   ' --> '' - Invalid
+20-10-2025 15:17:05 - Username: ' hi ' --> 'hi' - Invalid
+20-10-2025 15:17:05 - Username: 'valid_user' --> 'valid_user' - Valid
+20-10-2025 15:17:05 - Username: '  another_valid_user  ' --> 'another_valid_user' - Valid
